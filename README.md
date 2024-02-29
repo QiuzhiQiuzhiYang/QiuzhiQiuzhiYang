@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @QiuzhiQiuzhiYang
 - 👀 I’m interested in python
-- 🌱 I’m currently learning ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
